@@ -1,0 +1,36 @@
+.header {
+  width: 50%;
+}
+.logo {
+  width: 100%;
+  height: 75px;
+  border: 1px solid #000;
+  margin: 15px 0;
+  text-align: center;
+  line-height: 75px;
+}
+textarea {
+  resize: none;
+}
+fieldset {
+  padding: .35em .625em .75em;
+  margin: 0 2px;
+  border: 1px solid silver;
+}
+legend {
+  width: initial;
+  margin-bottom: 0;
+  border-bottom: 0;
+  font-size: initial;
+  font-weight: 700;
+  padding: 0 5px;
+}
+.err {
+  color: #8a6d3b;
+  font-size: 12px;
+}
+.submit-and-cancel {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
